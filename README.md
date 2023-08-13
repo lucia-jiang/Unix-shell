@@ -1,5 +1,4 @@
 # minishell
-Small shell coded in C using UNIX
 
 The "minishell" program acts as a command interpreter, designed and implemented in C within the Unix operating system environment.
 
