@@ -1,6 +1,6 @@
-# minishell
+# Unix-shell
 
-The "minishell" program acts as a command interpreter, designed and implemented in C within the Unix operating system environment.
+This program acts as a command interpreter, designed and implemented in C within the Unix operating system environment.
 
 ## Key Functionalities
 
